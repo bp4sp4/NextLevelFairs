@@ -2,7 +2,7 @@
 
 <h2>24/03/14(목) 시작 ~ 24/03/15(수) 끝<h2>
 
-데모사이트 : <a href="">Demo Site</a>
+데모사이트 : <a href="https://bp4sp4.github.io/NextLevelFairs/">Demo Site</a>
 
 <h3>학습 내용</h3>
 
